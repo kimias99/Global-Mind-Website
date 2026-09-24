@@ -1,0 +1,4 @@
+/* Both faces ship with the system: Vazirmatn (Persian, variable) and Playfair Display (English). */
+@font-face { font-family: "Playfair Display"; src: url("../assets/fonts/PlayfairDisplay.ttf") format("truetype"); font-weight: 400 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Vazirmatn"; src: url("../assets/fonts/Vazirmatn.ttf") format("truetype"); font-weight: 100 900; font-style: normal; font-display: swap; }
+:root { --font-english: "Playfair Display", Georgia, "Times New Roman", serif; --font-persian: "Vazirmatn", Tahoma, "Segoe UI", sans-serif; --font-display: var(--font-english); --font-body: var(--font-english); }

@@ -1,0 +1,16 @@
+[lang="en"]{font-family:var(--font-english)}
+[lang="fa"]{font-family:var(--font-persian)}
+.display-xl{font-family:var(--font-english);font-size:56px;line-height:62px;font-weight:400}
+.heading-1{font-family:var(--font-english);font-size:36px;line-height:44px;font-weight:400}
+.heading-2{font-family:var(--font-english);font-size:24px;line-height:32px;font-weight:400}
+.body{font-family:var(--font-english);font-size:17px;line-height:28px;font-weight:400}
+.body-sm{font-family:var(--font-english);font-size:14px;line-height:22px;font-weight:400}
+.label{font-family:var(--font-english);font-size:12px;line-height:16px;font-weight:400;letter-spacing:.08em;text-transform:uppercase}
+.fa-display-xl{font-family:var(--font-persian);font-size:52px;line-height:80px;font-weight:700}
+.fa-heading-1{font-family:var(--font-persian);font-size:34px;line-height:54px;font-weight:700}
+.fa-heading-2{font-family:var(--font-persian);font-size:22px;line-height:36px;font-weight:600}
+.fa-body{font-family:var(--font-persian);font-size:16px;line-height:30px;font-weight:400}
+.fa-body-sm{font-family:var(--font-persian);font-size:14px;line-height:25px;font-weight:400}
+.fa-label{font-family:var(--font-persian);font-size:13px;line-height:20px;font-weight:500}
+a{color:var(--gold-deep);text-decoration:underline;text-underline-offset:2px;transition:color var(--transition-default)}
+a:hover{color:var(--midnight-navy)}
